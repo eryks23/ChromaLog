@@ -1,0 +1,4 @@
+[23:17:44] [INFO] Starting installation of 'super-app'...
+[23:17:44] [WARN] Older version detected, overwriting files.
+[23:17:44] [ERROR] Installation aborted: Permission denied for /usr/local/bin
+[23:17:44] [OK] Installation completed successfully (after fixes).
